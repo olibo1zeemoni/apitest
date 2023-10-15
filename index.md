@@ -1,5 +1,5 @@
 ##Welcome to Github pages 
-Markdown is an easy-to-use tool for styling your writing. 
+<div Markdown is an easy-to-use tool for styling your writing.> </div>
 
 Here's the JSON data:
 
